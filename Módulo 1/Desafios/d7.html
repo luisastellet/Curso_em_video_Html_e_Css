@@ -10,9 +10,11 @@
 <body>
     <h1>Imagem flexível</h1>
     <p>Você está vendo a imagem completa? Experimente ampliar o tamanho da sua janela para aproveitar a melhor experiência &#129327</p>
-    <img src="imagens.d7/paisagem-g.png" style="width: auto; height: auto;" alt="Paisagem">
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens.d7/paisagem-p.png" type="image/png">
+        <source media="(max-width: 1210px)" srcset="imagens.d7/paisagem-m.png" type="image/png">
+        <img src="imagens.d7/paisagem-g.png" alt="Paisagem">
+    </picture>
+
 </body>
 </html>
-
-
-FALTA ASSISTIR A AULA 11
