@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited {
+            color: pink;
+        }
+
+        a:hover {
+            color: black;
+            text-decoration: underline;
+        }
+        
+        a:active {
+            color: #f84dab;
+        }
+
+        a:before {
+            content: '-> ';
+        }
+
+        a:active:after {
+            content: ' <-';
+        }  
+
+    </style>
+</head>
+<body>
+    <h1>Personalizando links</h1>
+    <ul>
+        <li><a target="_blank" href="https://github.com/luisastellet/Curso_em_video_Html_e_Css.git">Repositório Github</a></li>
+        <li><a target="_blank" href="https://www.instagram.com/luisastellet/">Perfil do Instagram</a></li>
+        <li><a target="_blank" href="https://www.linkedin.com/in/luisa-s-074525232/">Perfil do Linkedin</a></li>
+    </ul>
+</body>
+</html>
