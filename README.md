@@ -4,7 +4,8 @@
 
   Aprendendo mais sobre o Github e sobre como gerenciar meus repositórios
 
-
-  <a href="https://luisastellet.github.io/Curso_em_video_Html_e_Css/ex17/index.html" target="_blank"> Executar o exercício 17, site que fiz sozinha sobre a história do mascote do Android</a>
+<ul>
+  <li><a href="https://luisastellet.github.io/Curso_em_video_Html_e_Css/ex17/index.html" target="_blank"> Executar o exercício 17, site que fiz sozinha sobre a história do mascote do Android</a></li>
   <br>
-  <a href="https://luisastellet.github.io/Curso_em_video_Html_e_Css/ex17/index_corrigido.html" target="_blank"> Executar o exercício 17, site sobre a história do mascote do Android  após ver as aulas</a>
+  <li><a href="https://luisastellet.github.io/Curso_em_video_Html_e_Css/ex17/index_corrigido.html" target="_blank"> Executar o exercício 17, site sobre a história do mascote do Android  após ver as aulas</a></li>
+</ul>
