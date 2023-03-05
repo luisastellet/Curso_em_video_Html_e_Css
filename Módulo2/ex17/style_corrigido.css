@@ -97,6 +97,7 @@ main {
 main img {
     display: block;
     margin: auto;
+    min-width: 200px;
 }
 
 div.video {
